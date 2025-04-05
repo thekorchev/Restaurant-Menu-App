@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.ordersmenu.Stage5UnitTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-02-10T21:16:56" hostname="VITALIY-DESKTOP" time="0.735">
+  <properties/>
+  <testcase name="test00_checkMakeOrderButtonExists" classname="org.hyperskill.ordersmenu.Stage5UnitTest" time="0.057"/>
+  <testcase name="test01_checkToastIsSentWhenFettuccineOderIsSubmitted" classname="org.hyperskill.ordersmenu.Stage5UnitTest" time="0.08"/>
+  <testcase name="test02_checkToastIsNotSentWhenEveryAmountIsZero" classname="org.hyperskill.ordersmenu.Stage5UnitTest" time="0.052"/>
+  <testcase name="test03_checkAfterSteakParmigianaOrderStockAmountDecreases" classname="org.hyperskill.ordersmenu.Stage5UnitTest" time="0.081"/>
+  <testcase name="test04_checkAfterMenuItemOrderStockAmountDecreasesWithIndividualOrders" classname="org.hyperskill.ordersmenu.Stage5UnitTest" time="0.174"/>
+  <testcase name="test05_checkAfterMenuItemOrderStockAmountDecreasesWithOneCollectiveOrder" classname="org.hyperskill.ordersmenu.Stage5UnitTest" time="0.177"/>
+  <testcase name="test06_checkAllOutOrder" classname="org.hyperskill.ordersmenu.Stage5UnitTest" time="0.114"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

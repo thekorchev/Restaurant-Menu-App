@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.ordersmenu.Stage4UnitTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2025-02-10T21:16:55" hostname="VITALIY-DESKTOP" time="1.176">
+  <properties/>
+  <testcase name="test00_checkMenuItemAmountIncreases" classname="org.hyperskill.ordersmenu.Stage4UnitTest" time="0.122"/>
+  <testcase name="test01_checkMenuItemAmountIncreasesUpToLimitOnly" classname="org.hyperskill.ordersmenu.Stage4UnitTest" time="0.251"/>
+  <testcase name="test02_checkMenuItemWhenOnMaxLimitColorIsRed" classname="org.hyperskill.ordersmenu.Stage4UnitTest" time="0.132"/>
+  <testcase name="test03_checkMenuItemAmountDecrease" classname="org.hyperskill.ordersmenu.Stage4UnitTest" time="0.232"/>
+  <testcase name="test04_checkAmountDecreaseDoesNotGoBellowZero" classname="org.hyperskill.ordersmenu.Stage4UnitTest" time="0.277"/>
+  <testcase name="test05_whileColorIsRedCheckColorChangesBackToBlackAfterDecrement" classname="org.hyperskill.ordersmenu.Stage4UnitTest" time="0.162"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
